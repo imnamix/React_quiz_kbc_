@@ -20,4 +20,4 @@ You can check out the live demo [here](kon-banega-crorepati-lite.netlify.com).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-quiz-app.git
+   git clone https://github.com/imnamix/react-quiz-app.git
