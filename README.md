@@ -4,7 +4,7 @@ A simple quiz app built using React, inspired by Kaun Banega Crorepati (KBC).
 
 ## Demo
 
-You can check out the live demo [here](kon-banega-crorepati-lite.netlify.com).
+You can check out the live demo [here](kon-banega-crorepati-lite.netlify.com)
 
 ## Features
 
